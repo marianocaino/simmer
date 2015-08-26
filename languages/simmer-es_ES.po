@@ -152,7 +152,7 @@ msgstr "cucharada"
 
 #: core/recipes/items/ingredients/class-simmer-recipe-ingredients.php:254
 msgid "tablespoons"
-msgstr "cucharaditas"
+msgstr "cucharadas"
 
 #: core/recipes/items/ingredients/class-simmer-recipe-ingredients.php:255
 msgid "tbsp."
@@ -925,7 +925,7 @@ msgstr ""
 #: core/frontend/templates/recipe-shortcode.php:24
 #: core/frontend/templates/recipe.php:8
 msgid "Created by %1s on %2s"
-msgstr "Creada por %1s en %2s"
+msgstr "Creada por %1s el %2s"
 
 #: core/frontend/templates/recipe-shortcode.php:80
 #: core/frontend/templates/recipe.php:57
